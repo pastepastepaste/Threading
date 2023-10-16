@@ -1,0 +1,11 @@
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.csproj.AssemblyReference.cache
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.Form1.resources
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.Properties.Resources.resources
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.csproj.GenerateResource.cache
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\Galang.278762\source\Villegas\Activity\Activity\obj\Debug\Activity.pdb
